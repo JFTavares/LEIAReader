@@ -30,5 +30,3 @@ O usuário poderá configurar a visualização do conteúdo conforme as necessid
 Pessoas que tenham preferência por um aplicativo de interface simples, intuitiva e acessível para pessoas com deficiência visual, com baixa visão, com daltonismo e idosos.
 
 
-
-
